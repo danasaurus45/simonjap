@@ -6,7 +6,7 @@ Web ini berisikan sistem informasi rekap jumlah penduduk Kota Malang yang didapa
 ## Instalasi
 1. Clone repository ini ke direktori lokal anda dengan perintah :
     
-    ``git clone https://github.com/AgustinaVivi/CI-SIMONJAP.git``
+    ``git clone https://github.com/danasaurus45/simonjap.git``
 
     atau download file .zip nya lalu ekstrak ke direktori lokal anda.
 
